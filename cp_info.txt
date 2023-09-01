@@ -1,0 +1,14 @@
+Hello, and welcome to Twitch Channel Point Collector!
+
+
+Important Information:
+
+As of 09-01-2023 this is a currently UNFINISHED project and not ready for use.
+
+Twitch Channel Point Collector is written in Python. This means to use the program, you will need to have Python installed on your system. 
+Please go to:https://www.python.org/downloads/ and install the necessary version for your system.
+
+
+Startup:
+
+To start the program launch 'cp_launcher.bat'. (UNFINISHED feature - currently points to 'main.py' which does not yet exist)
